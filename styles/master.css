@@ -25,6 +25,9 @@ font-family: 'Domine', serif;*/
   position: absolute;
   top : 20vh;
   right : 2vw;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 2em;
 }
 
 
